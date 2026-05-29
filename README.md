@@ -9,7 +9,7 @@
 
 ### 1. 下载源码并编译
   ```
-  git clone --recursive https://github.com/DifferentialRobotics/Diff-Navigation.git
+  git clone --recursive https://gitee.com/DifferentialRobotics/Diff-Navigation.git
   cd Diff-Navigation
   catkin_make
   ```
