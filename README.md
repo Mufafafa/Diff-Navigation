@@ -37,8 +37,7 @@
 
 2. 在 [points.yaml](src/Diff-Planner/user_command/config/points.yaml) 中设置 `test1` 对应的途径点坐标，以及返程规划的途径点坐标。
 
-3. 检查 [ctrl_param_fpv.yaml](src/Px4_Ctrl/config/ctrl_param_fpv.yaml) 中起飞高度 `takeoff
-_height` 设置是否合适。
+3. 检查 [ctrl_param_fpv.yaml](src/Px4_Ctrl/config/ctrl_param_fpv.yaml) 中起飞高度 `takeoff_height` 设置是否合适。
 
 4. 打开遥控器，确认拨杆位置是否正确。
 
@@ -95,6 +94,8 @@ rostopic echo /camera/depth/camera_info
 - **[EGO-Planner-v2](https://github.com/ZJU-FAST-Lab/EGO-Planner-v2)**，特此感谢浙江大学 **FAST-Lab** 团队的开源贡献。
 - **[Faster-LIO](https://github.com/gaoxiang12/faster-lio)** ，特此感谢项目作者团队的开源贡献。
 - **[livox_ros_driver2](https://github.com/Livox-SDK/livox_ros_driver2)** 驱动，特此感谢项目作者团队的开源贡献。
+- **[VINS-Fusion-gpu](https://github.com/pjrambo/VINS-Fusion-gpu)**，特此感谢项目作者团队的开源贡献。
+- **[realsense-ros](https://github.com/realsenseai/realsense-ros)** 驱动，特此感谢项目作者团队的开源贡献。
 
 相关代码均严格遵循原项目的开源许可协议使用，用户在使用本项目时，请务必遵守相应的许可证条款。
 
