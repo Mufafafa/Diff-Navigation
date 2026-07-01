@@ -1,15 +1,15 @@
 [submodule "src/diff_planner"]
 	path = src/diff_planner
-	url = https://gitee.com/DifferentialRobotics/diff_planner.git
+	url = ../diff_planner.git
 [submodule "src/px4ctrl"]
 	path = src/px4ctrl
-	url = https://gitee.com/DifferentialRobotics/px4ctrl.git
+	url = ../px4ctrl.git
 [submodule "src/faster-lio"]
 	path = src/faster-lio
-	url = https://gitee.com/DifferentialRobotics/faster-lio.git
+	url = ../faster-lio.git
 [submodule "src/vins-fusion-gpu"]
 	path = src/vins-fusion-gpu
-	url = https://gitee.com/DifferentialRobotics/vins-fusion-gpu.git
+	url = ../vins-fusion-gpu.git
 [submodule "src/utils"]
 	path = src/utils
-	url = https://gitee.com/DifferentialRobotics/utils.git
+	url = ../utils.git
